@@ -15,6 +15,8 @@ I would see my phone contract and have a button for 'Upgrade phone'.
 
 # Way to generate queries to humans from templated text of various permutations
 
+See [https://github.com/samsquire/human-query-engine](human-query-engine)
+
 # Work ports and Free flowing work
 
 Get vetted by a single job interview
