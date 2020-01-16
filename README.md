@@ -28,3 +28,5 @@ Then I can go to work at my local train station. If my company doesn't have offi
 # Lifestyle subscriptions
 
 https://lifestyle-subscriptions.com/
+
+# Wifi advertising
