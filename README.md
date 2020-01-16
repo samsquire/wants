@@ -30,3 +30,7 @@ Then I can go to work at my local train station. If my company doesn't have offi
 https://lifestyle-subscriptions.com/
 
 # Wifi advertising
+
+# Conversational development/forum based software development
+
+Can software be developed collaboratively via a forum environment?
