@@ -43,3 +43,7 @@ Manage a company by presentation
 
 Companies that manage themselves via presentation slides (such as Powerpoint) could be doing it with active slides. Active slides change dynamically, in real time and talk via APIs to other systems.
 The slide presentation editor software has a app style shop to find integrations that you can talk to backend systems such as ERP, payroll, sales data.
+
+# Gig economy
+
+Stabilised, commoditized recruitment
