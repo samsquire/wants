@@ -48,4 +48,12 @@ The slide presentation editor software has a app style shop to find integrations
 
 Stabilised, commoditized recruitment
 
-# Dashboard of questions
+# Dashboard of questions to answer
+
+question-dash.com
+Expertise creating
+Personality tests
+
+# Deploy an infrastructure in a box in one source repository
+
+
