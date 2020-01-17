@@ -47,3 +47,5 @@ The slide presentation editor software has a app style shop to find integrations
 # Gig economy
 
 Stabilised, commoditized recruitment
+
+# Dashboard of questions
