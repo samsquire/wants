@@ -48,6 +48,10 @@ The slide presentation editor software has a app style shop to find integrations
 
 Stabilised, commoditized recruitment
 
+# Shop Cartridges
+
+Shop shelves could be loaded in a lorry and loaded into a building like a cartridge.
+
 # Dashboard of questions to answer
 
 question-dash.com
