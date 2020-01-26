@@ -72,3 +72,5 @@ Everyone should be able to afford to live in apartments which:
 # Some thing to use my excessive compute on
 
 # Tight coupling between libraries and their dependencies in the sense if one breaks the other, it's obvious
+
+# Shop in a truck
