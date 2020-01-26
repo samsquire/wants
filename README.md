@@ -58,3 +58,9 @@ Personality tests
 
 # Megacorporations
 
+# Luxury apartments
+
+Everyone should be able to afford to live in apartments which:
+
+ * have gyms
+ * have communal restaurants
