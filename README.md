@@ -46,7 +46,9 @@ The slide presentation editor software has a app style shop to find integrations
 
 # Gig economy
 
-Stabilised, commoditized recruitment
+Stabilised, commoditized recruitment, fair
+
+Pay well
 
 # Shop Cartridges
 
