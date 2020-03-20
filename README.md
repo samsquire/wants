@@ -2,6 +2,10 @@
 
 What do I want?
 
+# Communal kitchens
+
+Restaurants crowd funded by people who want to eat at the restaurants.
+
 # Digital contracts
 
 An app whereby you can see a contract and how it breaks down what you've agreed to, what you're not allowed to do and what your available actions available to you that you're allowed to do from the contract's perspective. And your obligations.
