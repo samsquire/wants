@@ -10,7 +10,9 @@ Restaurants crowd funded by people who want to eat at the restaurants.
 
 Offices to be useable at night time.
 
-# Economi abstractions
+# Economic abstractions
+
+Your typical layperson off the street cannot manage his pension and various insurances.
 
 # Digital contracts
 
