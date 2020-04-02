@@ -1,5 +1,9 @@
 # wants
 
+This repository is to track my wants.
+
+ * See my ideas repositories: [ideas1](https://github.com/samsquire/ideas) [ideas2](https://github.com/samsquire/ideas2) [ideas3](https://github.com/samsquire/ideas3)
+
 What do I want?
 
 # Communal kitchens
