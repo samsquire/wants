@@ -6,9 +6,13 @@ This repository is to track my wants.
 
 What do I want?
 
-# Communal kitchens
+# Mall living
 
-Restaurants crowd funded by people who want to eat at the restaurants.
+I would like to live above a shopping mall. Every thing is on my doorstep and there are plenty of activities in the mall to take part in. I have restaurants to eat from and entertainment.
+
+# Crowdfunded restaurants
+
+Restaurants crowd funded by people who want to eat at the restaurants. I would happily pay the costs of a restaurant divided by a bunch of people or so people who all want to eat at the same restaurant.
 
 # Night offices
 
@@ -87,7 +91,7 @@ Everyone should be able to afford to live in apartments which:
  * have gyms
  * have communal restaurants
 
-# Some thing to use my excessive compute on
+# Some thing to use my excessive compute and RAM on
 
 # Tight coupling between libraries and their dependencies in the sense if one breaks the other, it's obvious
 
