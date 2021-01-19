@@ -33,7 +33,7 @@ I would see my phone contract and have a button for 'Upgrade phone'.
 
 # Rewards to be a viable way to live
 
-# Way to generate queries to humans from templated text of various permutations
+# Way to generate prompts to human beings
 
 See [https://github.com/samsquire/human-query-engine](human-query-engine)
 
@@ -123,3 +123,14 @@ People bet on what they want, not what makes the most money and it becomes a for
 Parallel societies - societies can fragment by what is wanted by each neighbourhood. You can create a new neighbourhood by living in a place with a set of beliefs, a placement company would try place you near to people who believe the same things as you. Everyone gets what they want.
 
 I want to be 15 minutes of work walking. I want to be 5 minutes away from local shops. I want to be within 10 minutes of doctors. I want to be around this kind of people. All this has a cost and a set of positions to take to get what I want.
+
+# Politics
+
+I think government should fund:
+
+ * free schools
+ * free higher education for vocational subjects - degrees where you can get a easily gt a job
+ * healthcare
+ * cheap shelter
+
+Rent seeking should be discouraged and land owners should be taxed.
