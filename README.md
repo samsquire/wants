@@ -6,6 +6,17 @@ This repository is to track my wants.
 
 What do I want?
 
+# Politics
+
+I think government should fund:
+
+ * free schools
+ * free higher education for vocational subjects - degrees where you can get a easily gt a job
+ * healthcare
+ * cheap shelter
+
+Rent seeking should be discouraged and land owners should be taxed.
+
 # Mall living
 
 I would like to live above a shopping mall. Every thing is on my doorstep and there are plenty of activities in the mall to take part in. I have restaurants to eat from and entertainment.
@@ -124,13 +135,4 @@ Parallel societies - societies can fragment by what is wanted by each neighbourh
 
 I want to be 15 minutes of work walking. I want to be 5 minutes away from local shops. I want to be within 10 minutes of doctors. I want to be around this kind of people. All this has a cost and a set of positions to take to get what I want.
 
-# Politics
 
-I think government should fund:
-
- * free schools
- * free higher education for vocational subjects - degrees where you can get a easily gt a job
- * healthcare
- * cheap shelter
-
-Rent seeking should be discouraged and land owners should be taxed.
