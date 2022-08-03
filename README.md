@@ -2,16 +2,20 @@
 
 This repository is to track my wants.
 
- * See my ideas repositories: [ideas1](https://github.com/samsquire/ideas) [ideas2](https://github.com/samsquire/ideas2) [ideas3](https://github.com/samsquire/ideas3)
+ * See my ideas repositories: [ideas1](https://github.com/samsquire/ideas) [ideas2](https://github.com/samsquire/ideas2) [ideas3](https://github.com/samsquire/ideas3) [ideas4](https://github.com/samsquire/ideas4)
 
 What do I want?
+
+# Utopia on earth
+
+The world becomes a good place to live. Everyone is doing what they want to do providing it is good things they want to do. People are doing work they enjoy and have a high standard of life. Everyone has money and money as an abstraction is used to provide all the benefits of a production signal. I'm not arguing for decadence, but a grateful society that is grateful for what it has. Everyone should be happy. Nobody should be desperate. Nobody should be forced into doing things they secretly do not want to do or secretly believe is not necessary.
 
 # Politics
 
 I think government should fund:
 
  * free schools
- * free higher education for vocational subjects - degrees where you can get a easily gt a job
+ * free higher education for vocational subjects - degrees where you can get a easily get a job
  * healthcare
  * cheap shelter
 
