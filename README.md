@@ -10,6 +10,10 @@ What do I want?
 
 The world becomes a good place to live. Everyone is doing what they want to do providing it is good things they want to do. People are doing work they enjoy and have a high standard of life. Everyone has money and money as an abstraction is used to provide all the benefits of a production signal. I'm not arguing for decadence, but a grateful society that is grateful for what it has. Everyone should be happy. Nobody should be desperate. Nobody should be forced into doing things they secretly do not want to do or secretly believe is not necessary.
 
+* feeding people
+* raising tighly knit high trust good quality no crime resilient communities
+* producing things that people want or need
+
 # Politics
 
 I think government should fund:
