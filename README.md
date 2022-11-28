@@ -54,7 +54,7 @@ I would see my phone contract and have a button for 'Upgrade phone'.
 
 # Way to generate prompts to human beings
 
-See [https://github.com/samsquire/human-query-engine](human-query-engine)
+See [https://github.com/samsquire/human-query-engine](https://github.com/samsquire/human-query-engine)
 
 # Work ports and Free flowing work
 
