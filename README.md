@@ -14,16 +14,12 @@ The world becomes a good place to live. Everyone is doing what they want to do p
 * raising tighly knit high trust good quality no crime resilient communities
 * producing things that people want or need
 
-# Politics
+# Benefits
 
-I think government should fund:
-
- * free schools
- * free higher education for vocational subjects - degrees where you can get a easily get a job
+ * schools
+ * higher education for vocational subjects - degrees where you can get a easily get a job
  * healthcare
  * cheap shelter
-
-Rent seeking should be discouraged and land owners should be taxed.
 
 # Mall living
 
